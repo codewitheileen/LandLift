@@ -10,6 +10,9 @@ Whether you're searching for the perfect piece of land to build your dream home 
 - Access title deeds and legal documents for properties listed on LandLift, verified for authenticity.
 - Create a personalized user account to save favorite listings, track transactions, and manage preferences.
 # Getting Started
+To get started with LandLift, simply visit our website at www.landlift.com. 
+From there, you can explore available land properties, create a user account, and start your land search journey.
+# Contributing
 We welcome contributions from the community to help improve LandLift and make it an even better platform for land buyers and sellers. 
 If you're interested in contributing, please check out our Contribution Guidelines for more information.
 # Feedback
